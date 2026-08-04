@@ -1,0 +1,3 @@
+/Users/preranapradeep/Desktop/7th sem/computer_graphics/build/CMakeFiles/ComputerGraphics.dir
+/Users/preranapradeep/Desktop/7th sem/computer_graphics/build/CMakeFiles/edit_cache.dir
+/Users/preranapradeep/Desktop/7th sem/computer_graphics/build/CMakeFiles/rebuild_cache.dir
